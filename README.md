@@ -1,3 +1,3 @@
 # dice-game
 
-An android game to play the dice game Thirty. 
+A simple android game to play the dice game Thirty. 
