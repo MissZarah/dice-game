@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">ThirtyOfGame</string>
+    <string name="welcome">Welcome to The Game Of Thirty</string>
+    <string name="start_button">Start</string>
+    <string name="roll_button">Roll</string>
+    <string name="rounds_left">Rounds Left:</string>
+    <string name="round_points">Round Points:</string>
+    <string name="collect_points">Collect Points</string>
+    <string name="wrong_choice">Wrong Choice, try again.</string>
+    <string name="game_over">The Game Is Over, See The Result</string>
+    <string name="play_again">Play Again</string>
+    <string-array name="scoring_alt">
+        <item>Low</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+
+</resources>

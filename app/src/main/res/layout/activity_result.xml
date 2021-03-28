@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="12dp"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:gravity="top|center">
+
+    <TableRow
+        android:layout_width="336dp"
+        android:layout_height="50dp">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/game_over"
+            android:layout_gravity="center"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp">
+
+        <TextView
+            android:id="@+id/c4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c9"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="360dp"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/c10"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="220dp"
+        android:layout_height="41dp">
+
+        <TextView
+            android:id="@+id/total_score"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TextView" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/restart_button"
+            android:layout_width="159dp"
+            android:layout_height="match_parent"
+            android:text="@string/play_again" />
+    </TableRow>
+</LinearLayout>
