@@ -2,5 +2,5 @@
 
 An android game to play the dice game Thirty.
 
- <img src="img1.png" >
- <img src="img2.png" >
+ <img src="img1.png" width="100" height="400">
+ <img src="img2.png"  width="100" height="400">
